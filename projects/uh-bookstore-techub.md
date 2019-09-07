@@ -12,7 +12,7 @@ summary: At my job at the UH Bookstore computer department, I create spreadsheet
   work.
 ---
 
-<img class="ui medium circular image" src="../images/wireframe/spreadsheets.jpg">
+<img class="ui medium circular image" src="../images/spreadsheets.jpg">
 
 ## About my job
 
