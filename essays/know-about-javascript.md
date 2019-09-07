@@ -9,6 +9,8 @@ labels:
   - Learning
 ---
 
+<img class="ui big centered image" src="../images/javascript.jpg">
+
 Just about every ICS class I’ve taken has taught me a different language from the bottom up. Right now, I’m familiar with the basics of 
 Java, C, C++ and yeah even pseudocode. Java and C in particular were pretty different from each other and it took some getting used to 
 learning C. When I first heard about Javascript, I figured it must be somewhat similar to Java and after 132 lessons on FreeCodeCamp and 
