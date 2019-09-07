@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: What Do I Know About Javascript?
 # All dates must be YYYY-MM-DD format!
-date: 2019-08-06
+date: 2019-09-06
 labels:
   - Javascript
   - Learning
