@@ -8,8 +8,7 @@ date: 2019-07-01
 labels:
   - Spreadsheets
   - Organization
-summary: At my job at the UH Bookstore computer department, I create spreadsheets and catalogs with my team to help organize our 
-  work.
+summary: At my job at the UH Bookstore computer department, I create spreadsheets and catalogs with my team to help organize our work.
 ---
 
 <img class="ui medium circular image" src="../images/spreadsheets.jpg">
