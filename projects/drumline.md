@@ -9,6 +9,7 @@ labels:
   - Marching Band
   - Drumline
   - Leadership
+summary: I was the section leader for drumline in my high schools band.
 ---
 
 ## Introduction
