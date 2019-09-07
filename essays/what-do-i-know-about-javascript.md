@@ -11,7 +11,7 @@ labels:
 
 <img class="ui centered large image" src="../images/javascript.jpg">
 
-##Early Thoughts on Javascript
+## Early Thoughts on Javascript
 
 Just about every ICS class I’ve taken has taught me a different language from the bottom up. Right now, I’m familiar with the basics of 
 Java, C, C++ and yeah even pseudocode. Java and C in particular were pretty different from each other and it took some getting used to 
@@ -23,11 +23,11 @@ similar to Java, which is what I did back in ICS 211. This language feels super 
 
 <img class="ui big centered image" src="../images/ASE-pic.png">
 
-##Working Out Solutions
+## Working Out Solutions
 
 One thing that I think will help me improve my knowledge of Javascript the most is our Workouts of the Day (WOD). I think the whole athletic software engineering is a good idea. As someone who goes to the gym regularly in the semester, I think it’s important to be a bit strict when it comes to time because it helps manage one's efficiency. The modules and our schedule structure really allows me to plan out my work ahead of time and helps me think of what is the most efficient way to complete the assignments. I also believe that repetition is the best way to learn or improve on something. Just like the gym, if you’re doing something for the first time, you should do it a few more times to adjust to it. I like the WODs because I’m limited to a certain amount of time, which trains my brain to work efficiently. Also doing one practice WOD, group WOD, and class WOD a week helps me adjust to how programming  may actually be like outside of school and helps me retain new things I learn about functions and the syntax of Javascript.
 
-##Takeaway
+## Takeaway
 
 Overall, I believe Javascript is a good language to know and I’m glad to be learning it in this class with the athletic software 
 engineering pedagogy. Both Javascript and ASE provides me with a new perspective on how to write programs and I hope they improve my 
