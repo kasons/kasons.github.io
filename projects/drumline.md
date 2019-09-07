@@ -11,7 +11,9 @@ labels:
   - Leadership
 ---
 
-<img class="ui medium centered image" src="../images/band-practice.jpg">
+## Introduction
+
+<img class="ui medium right floated image" src="../images/band-practice.jpg">
 
 From 2013-2017 I was in drumline in my high schools band. We would do things like enter competitions, march in parades, and cheer on our
 football team and hype up the crowd. When I started my junior year, I was chosen to be the section leader for the drumline. I helped guide
@@ -20,6 +22,8 @@ my section which taught me skills on managing a group and teaching how to play d
 As section leader, I was in charge of things like managing when we had practices, assigning players to drums, teaching the underclassmen 
 drumline techniques, and correcting mistakes in the group as a whole so we could play clean and in time. Typically, drumlines also put more hours in than 
 other sections of the band, so we had to work around every members schedule.
+
+## What I learned
 
 Being the leader has taught me how to not only manage my time, but how to manage availability of every member in a group. It was crucial 
 for some areas of the drumline (such as the bass drums) to play together and with every member present, in order to improve effectively. 
