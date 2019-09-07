@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/techub.png
+image: images/spreadsheets.jpg
 title: UH Bookstore Techub
 permalink: projects/uh-bookstore-techub
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: At my job at the UH Bookstore computer department, I create spreadsheets and catalogs with my team to help organize our work.
 ---
 
-<img class="ui centered medium circular image" src="../images/spreadsheets.jpg">
+<img class="ui centered medium circular image" src="../images/techub.png">
 
 ## About my job
 
