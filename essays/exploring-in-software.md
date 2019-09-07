@@ -22,13 +22,9 @@ really learning web development and learning Javascript.
 ## Interests in Web Development
 
 Sure, security or networking sounds like fun, but I never saw myself doing those kinds of things in the future. I liked the idea of 
-interacting with people in programming and how to make programs more efficient and user-friendly. On top of that, web development expresses 
-a lot creativity and motivate graphic design of software. This is probably a popular branch today because more websites are being developed 
-by each day and more people are growing accustomed to using apps and websites. It may seem like an especially practical job for anybody.
+interacting with people in programming and how to make programs more efficient and user-friendly. On top of that, web development expresses a lot creativity and motivate graphic design of software. This is probably a popular branch today because more websites are being developed by each day and more people are growing accustomed to using apps and websites. It may seem like an especially practical job for anybody.
 
 ## Plans for the future
 
 In the future and especially in my ICS 314 class, I hope to become very familiar with Javascript and get to learning HTML. If I decide to 
-develop websites and apps as a career, then these languages are going to be some of the most important for me to know. Also, I hope to have 
-experience creating apps in the near future. With that, I should be comfortable with the development process and proficient at designing 
-user-friendly software.
+develop websites and apps as a career, then these languages are going to be some of the most important for me to know. Also, I hope to have experience creating apps in the near future. With that, I should be comfortable with the development process and proficient at designing user-friendly software.
