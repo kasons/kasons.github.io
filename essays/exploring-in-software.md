@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui centered large circular image" src="../images/web-dev.jpg">
+<img class="ui centered medium circular image" src="../images/web-dev.jpg">
 
 Thinking about software engineering, it’s such a broad topic involving a lot of different branches of computer science: artificial 
 intelligence, cyber security, networking, etc. For a while, I wasn’t sure what I wanted to get into and I feel like it was mostly because 
