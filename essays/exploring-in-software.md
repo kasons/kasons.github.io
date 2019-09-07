@@ -19,7 +19,7 @@ it wasn’t clear what I liked about it. Well after a few projects and learning 
 gained a vague understanding of what I’d like to do most in software: web development. Now I say ‘vague’ because I’m only at the start of 
 really learning web development and learning Javascript.
 
-## Interests in web development
+## Interests in Web Development
 
 Sure, security or networking sounds like fun, but I never saw myself doing those kinds of things in the future. I liked the idea of 
 interacting with people in programming and how to make programs more efficient and user-friendly. On top of that, web development expresses 
