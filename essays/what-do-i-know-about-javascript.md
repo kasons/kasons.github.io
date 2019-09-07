@@ -30,8 +30,7 @@ One thing that I think will help me improve my knowledge of Javascript the most 
 
 ## Takeaway
 
-Overall, I believe Javascript is a good language to know and I’m glad to be learning it in this class with the athletic software 
+Overall, I believe Javascript is a good language to know and I’m glad to be learning it in ICS 314 with the athletic software 
 engineering pedagogy. Both Javascript and ASE provides me with a new perspective on how to write programs and I hope they improve my 
 efficiency in coding . Also, all the programs we’re using within Javascript and the extra resources that I’ve stumbled upon have been 
-teaching me more about what web development is all about and is increasing my interest in it greatly. I find all these tools to be 
-incredibly valuable in helping me decide what I want to focus on in computer science.
+teaching me more about what web development is all about and is increasing my interest in it greatly! I find all these tools incredibly valuable and hope it helps me decide on where I really want to go in computer science.
