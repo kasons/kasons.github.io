@@ -21,6 +21,7 @@ a week and a half into this class, I still feel the same way.
 Yes, there are many differences between the two and I feel like my opinion will surely change, but compared to C, Javascript feels more 
 similar to Java. This language feels super user friendly and is totally practical for things like web development (also not tracing pointers again is such a relief). There are a lot of functions that make this language efficient to use but seems even simpler than Java at times. Not having to use specific data types such as int or string when initializing a variable or not putting return types for function definitions were surprising to me. And not just that, the more I learn about the language, the more I find out about the amount of freedom you have with the syntax. A lot of things that you’re restricted from doing in Java and C is allowed in Javascript which makes more sense to me now in hindsight. Especially in regards to ES6, the updated version of Javascript. There are a lot of new features in there that are still foreign to me, but from what I know so far, ES6 creates many shortcuts for the programmer and shortens a lot of lines in their code. I feel like if I get familiar with these new features, it will save me a lot of  time writing code in the long run.
 
+
 <img class="ui big centered image" src="../images/ASE-pic.png">
 
 ## Working Out Solutions
