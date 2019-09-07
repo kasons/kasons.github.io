@@ -12,7 +12,7 @@ labels:
 summary: At my job at the UH Bookstore computer department, I create spreadsheets and catalogs with my team to help organize our work.
 ---
 
-<img class="ui medium circular image" src="../images/spreadsheets.jpg">
+<img class="ui centered medium circular image" src="../images/spreadsheets.jpg">
 
 ## About my job
 
