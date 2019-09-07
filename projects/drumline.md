@@ -4,6 +4,7 @@ type: project
 image: images/drumline.jpg
 title: Drumline Leadership
 permalink: projects/drumline
+# All dates must be YYYY-MM-DD format!
 date: 2015-2017
 labels:
   - Marching Band
