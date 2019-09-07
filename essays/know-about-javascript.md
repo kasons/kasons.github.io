@@ -25,7 +25,7 @@ lot of new features in there that are still foreign to me, but from what I know 
 shortens a lot of lines in their code. I feel like if I get familiar with these new features, it will save me a lot of time writing code 
 in the long run.
 
-<img class="ui medium center floated image" src="../images/ASE-pic.png">
+<img class="ui large left floated image" src="../images/ASE-pic.png">
 
 One thing that I think will help me improve my knowledge of Javascript the most is our Workouts of the Day (WOD). I think the whole idea of 
 athletic software engineering is a good idea. As someone who goes to the gym regularly in the semester, I think it’s important to be a bit 
