@@ -4,6 +4,7 @@ type: project
 image: images/techub.png
 title: UH Bookstore Techub
 permalink: projects/uh-bookstore-techub
+# All dates must be YYYY-MM-DD format!
 date: 2019-07-01
 labels:
   - Spreadsheets
