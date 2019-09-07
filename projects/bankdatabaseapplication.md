@@ -3,12 +3,11 @@ layout: project
 type: project
 image: images/database.jpg
 title: Bank Database Application
-permalink: projects/bank-database-application
+permalink: projects/bankdatabaseapplication
 date: 2019-04-14
 labels:
   - C++
-summary: For my ICS 212 class, I was assigned a semester long project called the Bank Database Application that stores 
-  the account number, name, and address of the user into a record.
+summary: For my ICS 212 class, I was assigned a semester long project called the Bank Database Application that stores the account number, name, and address of the user into a record.
 ---
 
 ## Introduction
