@@ -26,7 +26,7 @@ Eric Steven Raymond had a very detailed essay regarding the precepts of asking s
 
 In contrast, a person who asks for someone to simply explain something to them is asking a dumb question and in response, probably won’t get much answers. Another post on Stack Overflow has the subject line “Explanation for in loop JavaScript” with the body saying “Who can explain how this for in loop works and why it's assign keys of object to array?” For one, this doesn’t display proper grammar, especially in the subject line which doesn’t attract many hackers. Also, below the body description is the snippet of the persons code, that’s it. There’s no display that the person did their research, where they could easily find a tutorial on this function or a clear description of what there deviation to their expected outcome was. In response, this person has received only one answer for the past two years and comments saying that they should look up a forum. In a sense, this wastes hackers time when the poster didn’t put time into it themselves to answer the question. 
 
-[A Not-so-smart Queston](https://stackoverflow.com/questions/42037582/explanation-for-in-loop-javascript)
+[A Not-So-Smart Queston](https://stackoverflow.com/questions/42037582/explanation-for-in-loop-javascript)
 
 ## My Observation
 
