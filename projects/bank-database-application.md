@@ -23,4 +23,4 @@ challenge because C and C++ have very basic elements and don't include many feat
 
 This project taught me skills in tracing and helped me better understand the concept of pointers. It also strengthened my skills in problem solving and designing algorithms for programs. ICS 212 was the most time consuming class for me at the time. I actually had to take the class twice because I wasn't prepared for the time commitment the first time around. Nonetheless, that class and the Bank Database project were both valuable for my learning and helped me grow as a programmer. Now, I'm more confident in writing code and ready for what challenges I'll face in the future. 
 
-[Here's the repository for the Bank Database files]{https://github.com/kasons/ICS212-PROJECT2}
+[Here's the repository for the Bank Database files](https://github.com/kasons/ICS212-PROJECT2)
