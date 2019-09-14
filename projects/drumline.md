@@ -10,7 +10,7 @@ labels:
   - Marching Band
   - Drumline
   - Leadership
-summary: I was the section leader for drumline in my high schools band which taught me leadership skills, how to manage schedules, and how to teach effectively.
+summary: I was the section leader for drumline in my high schools band where I had to lead a group, manage schedules to practices, and learn techniques to teaching effectively.
 ---
 
 ## Introduction
