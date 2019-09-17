@@ -26,5 +26,4 @@ interacting with people in programming and how to make programs more efficient a
 
 ## Plans for the future
 
-In the future and especially in my ICS 314 class, I hope to become very familiar with Javascript and get to learning HTML. If I decide to 
-develop websites and apps as a career, then these languages are going to be some of the most important for me to know. Also, I hope to have experience creating apps in the near future. With that, I should be comfortable with the development process and proficient at designing user-friendly software.
+In the future and especially in my ICS 314 class, I hope to become very familiar with Javascript and get to learning HTML. If I decide to develop websites and apps as a career, then these languages are going to be some of the most important for me to know. Also, I hope to have experience creating apps in the near future. With that, I should be comfortable with the development process and proficient at designing user-friendly software.
