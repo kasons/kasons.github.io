@@ -19,4 +19,6 @@ After using ESLint’s coding standards for about a week, I already feel pretty 
 
 There’s a clear way to organize with coding standards. When I didn’t use it, I’d have to determine the best way to structure my code. Reading other peoples codes and figuring things out with group mates were convenient when our codes were organized and identically written. It’s a good benefit of coding standards. And although I haven’t come across any major Javascript syntax errors yet, I know ESLint will help come in handy when syntax gets more complicated and that green check mark will help keep me in check.
 
+## Takeaway
+
 Overall, coding standards is a good guideline to have when writing code. It's like spell checker! Every writing platform has one. If it wasn't for coding standards I'd probably be confused a lot and it would take a lot of time writing code. The best tools are the ones that help you write code faster in my opinion. Therefore, coding standards like ESLint is a wonderful tool to have installed.
