@@ -9,6 +9,8 @@ labels:
   - ESLint
 ---
 
+<img class="ui centered large rounded image" src="../images/banner.png">
+
 ## Why I Like Coding Standards
 
 Coding standards are pretty important to me. If it weren’t for it, I’d probably spend hours reading other people's codes on the web trying to understand them. I’d end up spending more time reading than what I wanted to do with the program in the first place! On top of that, coding standards also guides me when learning a new language and helps writing code without having to find errors during compilation. 
