@@ -2,15 +2,16 @@
 layout: essay
 type: essay
 title: Styling the Language of the Web
+# All dates must be YYYY-MM-DD format!
 date: 2019-10-10
 labels:
   - HTML
   - Semantic UI
   - Web Development
-  -UI Frameworks
+  - UI Frameworks
 ---
 
-<img class="ui centered large image" src="../images/semantic-ui.png">
+<img class="ui centered large circular image" src="../images/semantic-ui.png">
 
 ## Starting out
 
@@ -22,7 +23,7 @@ labels:
 
   The classes in Semantic UI also make it so you don’t have to implement your own classes and id’s for every html. Although it’s not “easy”, Semantic UI is great for faster styling and it’s like some of the work is already done for you. I was able to focus on what to put on my web pages and what it would look like, rather than how to implement the css for it.
 
-<img class="ui centered medium image" src="../images/spotify-img.png">
+<img class="ui centered medium circular image" src="../images/spotify-img.png">
 
   I think the most important aspect of Semantic UI is how it generally makes websites look more modern. We live in an age where people’s attention spans are really tiny. Therefore, our web pages need to look attractive and trendy or else no one would care. Having a set of tools like Semantic UI makes web designs consistent, familiar and up to date across the board. When users open a web page for the first time, they pretty much already know how to use it. A button shades when you hover it and it’s design gives you the urge to click it. Text boxes appear indented and looks like it’s waiting for your input, and you can always find the main menu bar at the top of the page. All these components and a trendy design make viewers stay and can even boost the popularity of your website.
 
