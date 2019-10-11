@@ -25,7 +25,7 @@ labels:
 
 <img class="ui centered big rounded image" src="../images/spotify-img.png">
 
-## Stay trending
+## Being "trendy"
 
   I think the most important aspect of Semantic UI is how it generally makes websites look more modern. We live in an age where people’s attention spans are really tiny. Therefore, our web pages need to look attractive and trendy or else no one would care. Having a set of tools like Semantic UI makes web designs consistent, familiar and up to date across the board. When users open a web page for the first time, they pretty much already know how to use it. A button shades when you hover it and it’s design gives you the urge to click it. Text boxes appear indented and looks like it’s waiting for your input, and you can always find the main menu bar at the top of the page. All these components and a trendy design make viewers stay and can even boost the popularity of your website.
 
