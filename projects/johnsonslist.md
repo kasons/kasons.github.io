@@ -16,7 +16,7 @@ labels:
 summary: For my ICS 314 course, I created a buyer and seller website dedicated to the UH Manoa community. Students can post listings that they want to sell and contact potential buyers  to meet up with them somewhere on campus.
 ---
 
-<img class="ui medium image" src="../images/homepage.png">
+<img class="ui image" src="../images/homepage.png">
 
 ## Introduction
 
