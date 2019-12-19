@@ -75,7 +75,20 @@
     }
   ],
   "work": [
-
+    {
+     "company": "University of Hawai'i at Manoa Bookstore",
+      "position": "Customer Service Employee",
+      "website": "https://www.bookstore.hawaii.edu/manoa/",
+      "startDate": "2018-05",
+      "summary": "",
+      "highlights": [
+        "Restock supplies and clothing departments",
+        "Shelve and organize books for the textbook department",
+        "Answer phone calls for supplies, clothing, textbooks, and computer department",
+        "Inventory products in each department",
+        "Sell computers to customers and study on Apple products"
+      ]
+    }
   ],
   "volunteer": [
   
