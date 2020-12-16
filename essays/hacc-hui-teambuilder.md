@@ -23,12 +23,15 @@ HACC-Hui is a web based program designed to help participants in the Hawaii Annu
 
 This program was a group project for our ICS 414 class. For the final result, each member was responsible for their own portion of the project, although we were able to work with others if a section seemed to difficult. Part of my contribution was cleaning up the ui and bringing it up to modern standards. Particularly, I worked on the display of the best fit teams page—cleaning up spacing and aligning naming conventions. Since many people worked on this project, there were inconsistent naming for things. I also contributed to cleaning up the directories by deleting duplicate or unused files.
 
-<img class="ui centered big rounded image" src="../images/old_bestfitteams.png"> *Before image of the best fit teams*
+
+<img class="ui centered big rounded image" src="../images/old_bestfitteams.png">*Before image of the best fit teams*
+
 
 Apart from the ui, I also implemented the desire to join functionality. Within the best fit teams page, I implemented a button for each displayed team indicating that the user is interested in joining. It then sends a Slack DM to the current members of that team. The team members can then go into HACC-Hui to a page called "Interested Participants" that brings up the data about the participant who clicked the button, and they can decide whether to add that participant or not. 
 
-<img class="ui centered big rounded image" src="../images/finished_bestfitteams.png">
-*After image of the best fit teams after my contributions*
+
+<img class="ui centered big rounded image" src="../images/finished_bestfitteams.png">*After image of the best fit teams after my contributions*
+
 
 ## Team Process
 
