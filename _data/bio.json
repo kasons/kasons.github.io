@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://kasons.github.io/images/kasons.jpg",
     "email": "kasons@hawaii.edu",
-    "phone": "808-492-9687",
+    "phone": "808-492-5142",
     "website": "https://kasons.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
@@ -12,7 +12,7 @@
       "postalCode": "",
       "city": "Kaneohe",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "HI"
     },
     "profiles": [
       {
@@ -60,12 +60,22 @@
         "Git/GitHub",
         "g++"
       ]
+    },
+    {
+      "name": "Microsoft Word, Excel and Powerpoint"
     }
   ],
   "education": [
     {
+      "institution": "James B. Castle High School, Kaneohe, HI",
+      "area": "Computer Science",
+      "studyType": "High School Diploma",
+      "startDate": "2013-08-20",
+      "endDate": "2017-05-20"
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2021)",
+      "area": "Information & Computer Sciences (expected Fall, 2021)",
       "studyType": "B.S.",
       "startDate": "2017-08-20",
       "endDate": "Present",
@@ -82,11 +92,10 @@
       "startDate": "2018-Present",
       "summary": "",
       "highlights": [
-        "Restock supplies and clothing departments",
-        "Shelve and organize books for the textbook department",
-        "Answer phone calls for supplies, clothing, textbooks, and computer department",
-        "Inventory products in each department",
-        "Sell computers to customers and study on Apple products"
+        "Answer and direct phone calls daily—including assisting customers inquiries and handling over-the-phone transactions ",
+        "Worked in the computer department—selling computer tech and software, mostly Apple products",
+        "Assisted in the clothing, supplies and printing departments—assisting customers, restocking supplies and emblematics, folding and cleaning the sales floor",
+        "Memorized entire line of merchandise & services, including prices and special discounts"
       ]
     }
   ],
