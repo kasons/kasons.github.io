@@ -1,17 +1,21 @@
 import { Bars3Icon } from "@heroicons/react/16/solid";
 import React from "react";
 import Link from 'next/link'
+import { useRouter } from 'next/router'
+
 
 interface Props {
     openNav: () => void;
 }
 
 const Nav = ({openNav} : Props) => {
+    const { pathname } = useRouter();
+    const isHomePage = pathname === "/";
     return (
         <div className="w-[100%] fixed z-[10000] top-0 h-[7.5vh] bg-[#212226] shadow-md">
             <div className="flex items-center justify-between w-[90%] mx-auto h-[100%]">
                 <div className="flex flex-1 sm:items-stretch sm:justify-start font-[livvic] text-white">
-                    <Link href="/" className="text-link text-5xl">
+                    <Link href="/" className={"text-link text-5xl" + (isHomePage ? " home-link" : "")}>
                         k.
                     </Link>
                 </div>

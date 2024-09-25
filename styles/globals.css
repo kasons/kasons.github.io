@@ -18,6 +18,10 @@
     .text-link {
         @apply relative text-white cursor-pointer md:block after:block after:content-[''] after:h-[3px] after:bg-sky-500 after:w-full after:scale-x-0 after:hover:scale-x-100 after:transition after:duration-300 after:origin-left
     }
+
+    .home-link {
+        @apply after:scale-x-100
+    }
 }
 
 html {
