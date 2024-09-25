@@ -9,10 +9,10 @@ import { saveAs } from "file-saver";
 type PDFFile = string | File | null;
 
 const Hero = () => {
-    const [file, setFile] = useState<PDFFile>('./myresume.pdf');
+    const [file, setFile] = useState<PDFFile>('./kason_shiroma_resume.pdf');
     const saveFile = () => {
         saveAs(
-          "./myresume.pdf",
+          "./kason_shiroma_resume.pdf",
           "kason_shiroma_resume.pdf"
         );
       };
