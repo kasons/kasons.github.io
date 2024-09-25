@@ -17,7 +17,7 @@ const Nav = ({openNav} : Props) => {
                 </div>
                 <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
                     {/* <div className="text-sky-500 font-bold ml-8 hidden md:block">|</div> */}
-                    {/* <Link href="/resume" className="nav-link">Resume</Link> */}
+                    <Link href="/resume" className="nav-link">Resume</Link>
                     <Link href="/#projects-section" className="nav-link ml-8">Projects</Link>
                     <Link href="/#about-section" className="nav-link ml-8">About</Link>
                 </div>
