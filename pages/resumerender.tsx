@@ -6,10 +6,7 @@ import ResumeSkeleton from '@/Components/ResumeSkeleton';
 import { SizeMe } from 'react-sizeme';
 import { saveAs } from "file-saver";
 
-pdfjs.GlobalWorkerOptions.workerSrc = new URL(
-  'pdfjs-dist/build/pdf.worker.min.mjs',
-  import.meta.url,
-).toString();
+pdfjs.GlobalWorkerOptions.workerSrc = `//unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.mjs`;
 
 type PDFFile = string | File | null;
 
