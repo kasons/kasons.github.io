@@ -20,7 +20,7 @@ const Footer = () => {
                 </Link>
             </div>
             <div className='text-center text-slate-400 text-sm md:text-md'>
-                Kason Shiroma 2024. &nbsp; Made using Next.js. &nbsp; View code&nbsp;<a className="underline underline-offset-2 hover:brightness-125" href=''>on Github.</a>
+                Kason Shiroma 2024. &nbsp; Made using Next.js. &nbsp; View code&nbsp;<a className="underline underline-offset-2 hover:brightness-125" href='https://github.com/kasons/kasons.github.io' target="_blank">on Github.</a>
             </div>
         </div>
     </div>
