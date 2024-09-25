@@ -1,10 +1,21 @@
 import React from "react";
+import { useState } from 'react';
 import Image from "next/image";
 import hero from "/public/images/hero.png";
 import avatar from "/public/images/kason-avatar.svg"
 import Link from 'next/link'
+import { saveAs } from "file-saver";
+
+type PDFFile = string | File | null;
 
 const Hero = () => {
+    const [file, setFile] = useState<PDFFile>('./myresume.pdf');
+    const saveFile = () => {
+        saveAs(
+          "./myresume.pdf",
+          "kason_shiroma_resume.pdf"
+        );
+      };
     return (
         <div className="bg-[#303136]">
             <div className="w-full">
@@ -17,9 +28,12 @@ const Hero = () => {
                         </h1>
                         <div className="text-3xl md:text-4xl font-medium">Software Developer</div>
                         <div className="font-medium my-6 text-xl">I&apos;m passionate about creating engaging and user-friendly web experiences.</div>
-                        <Link href="/resume" className="bg-[linear-gradient(35deg,white_50%,#303136_50%)] bg-animation bg-right-bottom transition-all duration-[0.3s] ease-[ease] hover:bg-left-top hover:text-black text-white py-3 px-6 text-xl font-medium rounded inline-block">
+                        <button onClick={saveFile} className="bg-[linear-gradient(35deg,white_50%,#303136_50%)] bg-animation bg-right-bottom transition-all duration-[0.3s] ease-[ease] hover:bg-left-top hover:text-black text-white py-3 px-6 text-xl font-medium rounded inline-block">
                             Résumé
-                        </Link>
+                        </button>
+                        {/* <Link href="/resume" className="bg-[linear-gradient(35deg,white_50%,#303136_50%)] bg-animation bg-right-bottom transition-all duration-[0.3s] ease-[ease] hover:bg-left-top hover:text-black text-white py-3 px-6 text-xl font-medium rounded inline-block">
+                            Résumé
+                        </Link> */}
                     </div>
                     <div className="w-100% justify-self-end">
                         <Image src={avatar} alt="Profile avatar image" className="w-80 hidden lg:flex" quality="100"/>
