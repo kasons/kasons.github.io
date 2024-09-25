@@ -1,8 +1,8 @@
-import ResumeSkeleton from '@/Components/ResumeSkeleton';
-import { useCallback, useState } from 'react';
+import { useState } from 'react';
 import { pdfjs, Document, Page } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 import 'react-pdf/dist/esm/Page/TextLayer.css';
+import ResumeSkeleton from '@/Components/ResumeSkeleton';
 import { SizeMe } from 'react-sizeme';
 import { saveAs } from "file-saver";
 
