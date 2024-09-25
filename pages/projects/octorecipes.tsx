@@ -41,7 +41,7 @@ const pixelchess = () => {
             <div className="w-[100%] m-auto pt-11">
                 <Carousel slides={slides} key="octorecipes"/>
             </div>
-            <p className='text-xl text-slate-300 mt-16'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Octorecipes allows users to conveniently organize their favorite recipes. You can save and categorize your favorites, add photos and notes, and mark down recipes you've tried or have yet to try.</p>
+            <p className='text-xl text-slate-300 mt-16'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Octorecipes allows users to conveniently organize their favorite recipes. You can save and categorize your favorites, add photos and notes, and mark down recipes you&apos;ve tried or have yet to try.</p>
             <p className='text-xl text-slate-300 mt-6'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This was a project for my ICS 491 Software Engineering that allowed me to gain more experience working with React.</p>
         </div>
 
