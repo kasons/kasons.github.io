@@ -11,7 +11,7 @@ const nextConfig = {
       config.resolve.alias.canvas = false;  
       return config;
     },
-    basePath: "/pages",
+  output: "export",
 };
 
 export default nextConfig;
