@@ -28,7 +28,7 @@ const Carousel = ({slides} : {slides:StaticImageData[]}) => {
           }}
         >
           {slides.map((s) => {
-            return <Image key={s.src} src={s} width={1000} className='h-[500px] w-[100%] min-w-[-webkit-fill-available]' alt="Pixelchess slide"/>;
+            return <Image key={s.src} src={s} width={1000} className='h-auto xl:h-[500px] w-[100%] min-w-[-webkit-fill-available]' alt="Pixelchess slide"/>;
           })}
         </div>
   

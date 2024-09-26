@@ -19,7 +19,7 @@ const pixelchess = () => {
             <h1 className='text-4xl font-semibold text-white mt-[2rem] mb-[1rem]'>
                 Johnsonslist
             </h1>
-            <div className='flex flex-row justify-between'>
+            <div className='flex flex-col md:flex-row justify-between'>
                 <div className='flex w-fit gap-4'>
                     <p className='text-sm text-slate-400'>
                         React
@@ -34,11 +34,11 @@ const pixelchess = () => {
                         MongoDB
                     </p>
                 </div>
-                <Link href="https://johnsonslist.github.io/" target="_blank" className='text-link text-xl font-semibold text-white ml-auto mr-10'>
+                <Link href="https://johnsonslist.github.io/" target="_blank" className='text-link text-xl font-semibold text-white mt-5 w-fit md:ml-auto md:mr-10 md:mt-0'>
                     View Guide
                     <FiExternalLink className='inline-block ml-2 mb-[6px]'/>
                 </Link>
-                <Link href="https://github.com/Johnsonslist/Johnsonslist" target="_blank" className='text-link text-xl font-semibold text-white'>
+                <Link href="https://github.com/Johnsonslist/Johnsonslist" target="_blank" className='text-link text-xl font-semibold text-white mt-5 md:mt-0 w-fit'>
                     View Code
                     <FaGithub className='inline-block ml-2 mb-[6px]'/>
                 </Link>
