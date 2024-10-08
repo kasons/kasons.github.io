@@ -35,7 +35,7 @@ const EmailSection = () => {
                         type='name'
                         id='name'
                         required
-                        className='bg-slate-300 border border-[#33353F] placeholder-slate-600 placeholder:italic text-[#212226] text-lg rounded block w-full md:w-[20vw] 2xl:w-[17vw] py-3 px-4 mb-6 sm:mb-0'
+                        className='bg-slate-300 border border-[#33353F] placeholder-slate-600 placeholder:italic text-[#212226] text-lg block w-full md:w-[20vw] 2xl:w-[17vw] py-3 px-4 mb-6 sm:mb-0'
                         placeholder='Name'
                     />
                     <input
@@ -43,7 +43,7 @@ const EmailSection = () => {
                         type='email'
                         id='email'
                         required
-                        className='bg-slate-300 border border-[#33353F] placeholder-slate-600 placeholder:italic text-[#212226] text-lg rounded block w-full md:w-[20vw] 2xl:w-[17vw] py-3 px-4'
+                        className='bg-slate-300 border border-[#33353F] placeholder-slate-600 placeholder:italic text-[#212226] text-lg block w-full md:w-[20vw] 2xl:w-[17vw] py-3 px-4'
                         placeholder='Email'
                     />
                 </div>
@@ -51,13 +51,13 @@ const EmailSection = () => {
                     name='message'
                     id='message'
                     required
-                    className='bg-slate-300 border border-[#33353F] placeholder-slate-600 placeholder:italic text-[#212226] text-lg rounded block w-full py-3 px-4 min-h-44 mb-6'
+                    className='bg-slate-300 border border-[#33353F] placeholder-slate-600 placeholder:italic text-[#212226] text-lg block w-full py-3 px-4 min-h-44 mb-6'
                     placeholder='Message'
                 />
-                <button type='submit' className='bg-[linear-gradient(35deg,white_50%,#303136_50%)] bg-animation bg-right-bottom transition-all duration-[0.3s] ease-[ease] hover:bg-left-top hover:text-black text-white py-3 text-xl w-32 font-medium rounded inline-block'>Send</button>
+                <button type='submit' className='bg-[linear-gradient(35deg,white_50%,#303136_50%)] bg-animation bg-right-bottom transition-all duration-[0.3s] ease-[ease] hover:bg-left-top hover:text-black text-white py-3 text-xl w-32 font-medium inline-block'>Send</button>
             </form>
         :
-        <div className='bg-gray-700 rounded w-full h-fit md:w-[50vw] 2xl:w-[34vw] text-slate-300 text-semibold text-lg p-10 text-center'>Your message has been successfully sent. Thanks for reaching out!</div>
+        <div className='bg-gray-700 w-full h-fit md:w-[50vw] 2xl:w-[34vw] text-slate-300 text-semibold text-lg p-10 text-center'>Your message has been successfully sent. Thanks for reaching out!</div>
     )
 }
 

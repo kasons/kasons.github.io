@@ -22,6 +22,10 @@
     .home-link {
         @apply after:scale-x-100
     }
+
+    .header-underline {
+        @apply after:block after:h-[2px] after:bg-sky-500 after:w-3/12 xl:after:w-1/12 after:mt-6
+    }
 }
 
 html {

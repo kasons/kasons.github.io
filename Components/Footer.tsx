@@ -13,32 +13,32 @@ const Footer = () => {
                 <EmailSection />
                 <div className='flex-col'>
                     <div className='flex-row'>
-                        <div className='text-2xl text-slate-400 font-semibold mb-[1rem]'>
+                        <div className='text-2xl text-slate-300 font-semibold mb-[1rem]'>
                             Address
                         </div>
-                        <div className='text-xl text-slate-500 font-semibold mb-[2rem]'>
+                        <div className='text-xl text-slate-400 font-semibold mb-[2rem]'>
                             Honolulu, HI
                         </div>
-                        <div className='text-2xl text-slate-400 font-semibold mb-[1rem]'>
+                        <div className='text-2xl text-slate-300 font-semibold mb-[1rem]'>
                             Email
                         </div>
-                        <div className='text-xl text-slate-500 font-semibold mb-[2rem] hover:brightness-125'>
+                        <div className='text-xl text-slate-400 font-semibold mb-[2rem] hover:brightness-125'>
                             <Link href="mailto:kasonkshiroma@gmail.com">
                                 kasonkshiroma@gmail.com
                             </Link>
                         </div>
                     </div>
                     <div className='flex-col'>
-                        <div className='text-2xl text-slate-400 font-semibold mb-[1rem]'>
+                        <div className='text-2xl text-slate-300 font-semibold mb-[1rem]'>
                             Socials
                         </div>
                     </div>
                     <div className='flex gap-8'>
                         <Link href="https://www.linkedin.com/in/kason-shiroma/" target="_blank">
-                            <FaLinkedinIn className='text-slate-500 size-9 hover:brightness-125'/>
+                            <FaLinkedinIn className='text-slate-400 size-9 hover:brightness-125'/>
                         </Link>
                         <Link href="https://github.com/kasons" target="_blank">
-                            <FiGithub className='text-slate-500 size-9 hover:brightness-125'/>
+                            <FiGithub className='text-slate-400 size-9 hover:brightness-125'/>
                         </Link>
                     </div>
                 </div>

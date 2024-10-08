@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
-import hero from "/public/images/hero.png";
+import hero from "/public/images/hero_background.jpg";
+
 import avatar from "/public/images/kason-avatar.svg"
 import Link from 'next/link'
 
@@ -15,9 +16,10 @@ const Hero = () => {
                         <h1 className="text-5xl md:text-6xl xl:text-7xl text-white font-medium">
                             Kason Shiroma
                         </h1>
-                        <div className="text-3xl md:text-4xl font-medium">Software Developer</div>
+                        <div className="text-3xl md:text-4xl font-medium md:text-white">Software Developer</div>
+                        <hr className='mt-6 w-6/12 border-sky-500 bg-sky-500 border-2 mx-auto lg:mx-0'/>
                         <div className="font-medium my-6 text-xl">I&apos;m passionate about creating engaging and user-friendly web experiences.</div>
-                        <Link href="/resume" className="bg-[linear-gradient(35deg,white_50%,#303136_50%)] bg-animation bg-right-bottom transition-all duration-[0.3s] ease-[ease] hover:bg-left-top hover:text-black text-white py-3 px-6 text-xl font-medium rounded inline-block">
+                        <Link href="/resume" className="bg-[linear-gradient(35deg,white_50%,#3c3d44_50%)] bg-animation bg-right-bottom transition-all duration-[0.3s] ease-[ease] hover:bg-left-top hover:text-black text-white py-3 px-6 text-xl font-semibold inline-block">
                             Résumé
                         </Link>
                     </div>

@@ -32,20 +32,20 @@ const Carousel = ({slides} : {slides:StaticImageData[]}) => {
           })}
         </div>
   
-        <div className="absolute top-0 h-full w-full justify-between items-center flex text-white px-2 text-4xl">
-          <div className='bg-opacity-50 bg-black h-[36px] absolute left-0'>
-            <button onClick={previousSlide} className='hover:opacity-50'>
+        <div className="absolute top-0 h-[90%] w-full justify-between items-center flex text-white px-2 text-4xl">
+          <div className='bg-white text-black rounded-full w-[40px] h-[40px] text-center flex justify-center absolute left-2 hover:opacity-80 transition-all duration-[0.3s] ease-[ease] shadow-lg'>
+            <button onClick={previousSlide}>
               <IoIosArrowBack />
             </button>
           </div>
-          <div className='bg-opacity-50 bg-black h-[36px] absolute right-0'>
-            <button onClick={nextSlide} className='hover:opacity-50'>
+          <div className='bg-white text-black rounded-full w-[40px] h-[40px] text-center flex justify-center absolute right-2 hover:opacity-80 transition-all duration-[0.3s] ease-[ease] shadow-lg'>
+            <button onClick={nextSlide}>
               <IoIosArrowForward />
             </button>
           </div>
         </div>
   
-        <div className="absolute bottom-0 py-4 flex justify-center gap-3 w-full">
+        <div className="py-6 flex justify-center gap-3 w-full">
           {slides.map((s, i) => {
             return (
               <div

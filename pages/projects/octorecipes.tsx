@@ -38,6 +38,7 @@ const pixelchess = () => {
                     <FiExternalLink className='inline-block ml-2 mb-[6px]'/>
                 </Link>
             </div>
+            <hr className='mt-2 w-9/12 md:w-5/12 border-sky-500 bg-sky-500 border-2'/>
             <div className="w-[100%] m-auto pt-11">
                 <Carousel slides={slides} key="octorecipes"/>
             </div>
