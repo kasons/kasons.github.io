@@ -33,12 +33,13 @@ const pixelchess = () => {
                         MongoDB
                     </p>
                 </div>
+                <hr className='block md:hidden mt-2 w-5/12 border-sky-500 bg-sky-500 border-2'/>
                 <Link href="https://github.com/ics491-kkj/Octo-Recipes" target="_blank" className='text-link text-xl font-semibold text-white mt-5 md:mt-0 w-fit'>
                     View Code
                     <FiExternalLink className='inline-block ml-2 mb-[6px]'/>
                 </Link>
             </div>
-            <hr className='mt-2 w-9/12 md:w-5/12 border-sky-500 bg-sky-500 border-2'/>
+            <hr className='hidden md:block mt-2 w-5/12 border-sky-500 bg-sky-500 border-2'/>
             <div className="w-[100%] m-auto pt-11">
                 <Carousel slides={slides} key="octorecipes"/>
             </div>

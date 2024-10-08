@@ -30,7 +30,7 @@ export default function ResumeRender() {
               Download
           </button>
         </div>
-        <hr className='mt-2 mb-8 w-9/12 md:w-4/12 border-sky-500 bg-sky-500 border-2'/>
+        <hr className='mt-2 mb-8 w-4/12 border-sky-500 bg-sky-500 border-2'/>
         <div className="flex flex-col items-center mt-11">
           <div className="w-[80%] mx-auto shadow-sm">
             <SizeMe
