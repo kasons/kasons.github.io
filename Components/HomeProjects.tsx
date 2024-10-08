@@ -21,7 +21,8 @@ const HomeProjects = () => {
                             <h1 className='text-2xl text-slate-300 font-semibold'>
                                 Pixelchess
                             </h1>                            
-                            <p className='text-[19px] text-slate-300 mt-4 h-40 lg:h-52 xl:h-40'>Pixelchess is an AR Auto-battler game similar to Auto Chess or TFT but can be played in any environment using Augmented Reality.</p>
+                            <p className='text-[18px] text-slate-300 mt-4 h-40 sm:h-24 lg:h-52 xl:h-40'>Pixelchess is an AR Auto-battler game similar to Auto Chess or TFT but can be played in any environment using Augmented Reality.</p>
+                            <hr className='w-3/12 border-sky-500 bg-sky-500 border-2 mb-4'/>
                             <div className='flex w-fit gap-4'>
                                 <p className='text-sm text-slate-400'>
                                     Unity
@@ -49,7 +50,8 @@ const HomeProjects = () => {
                             <h1 className='text-2xl text-slate-300 font-semibold'>
                                 Johnsonslist
                             </h1>
-                            <p className='text-[19px] text-slate-300 mt-4 h-40 lg:h-52 xl:h-40'>A Craigslist style website designed for  undergraduate and graduate students to trade common goods. This was my first time using React in a full scale project.</p>
+                            <p className='text-[18px] text-slate-300 mt-4 h-40 sm:h-24 lg:h-52 xl:h-40'>A Craigslist style website designed for  undergraduate and graduate students to trade common goods. This was my first time using React in a full scale project.</p>
+                            <hr className='w-3/12 border-sky-500 bg-sky-500 border-2 mb-4'/>
                             <div className='flex gap-4 w-fit'>
                                 <p className='text-sm text-slate-400'>
                                     React
@@ -77,7 +79,8 @@ const HomeProjects = () => {
                             <h1 className='text-2xl text-slate-300 font-semibold'>
                                 Octorecipes
                             </h1>
-                            <p className='text-[19px] text-slate-300 mt-4 h-40 lg:h-52 xl:h-40'>A cookbook app that allows users to organize their cooking recipes with labels, difficulty and experience. This was a class project that helped me gain experience with React.</p>
+                            <p className='text-[18px] text-slate-300 mt-4 h-40 sm:h-24 lg:h-52 xl:h-40'>A cookbook app that allows users to organize their cooking recipes with labels, difficulty and experience. This was a class project that helped me gain experience with React.</p>
+                            <hr className='w-3/12 border-sky-500 bg-sky-500 border-2 mb-4'/>
                             <div className='flex gap-4'>
                                 <p className='text-sm text-slate-400'>
                                     React
