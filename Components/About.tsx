@@ -7,7 +7,7 @@ const About = () => {
         <div className='bg-[#3c3d44] py-16 md:py-24' id='about-section'>
             <div className='grid grid-cols-1 md:grid-cols-[70%_30%] grid-rows-2 md:grid-rows-1 grid-rows-[40%_60%] sm:grid-rows-2 max-w-screen-2xl mx-auto px-8 lg:px-24'>
                 <div className='flex flex-wrap'>
-                    <h1 className='text-4xl font-semibold text-white mb-[1rem] text-left mt-8 sm:mt-0 w-fit'>
+                    <h1 className='text-4xl font-medium text-white mb-[1rem] text-left mt-8 sm:mt-0 w-fit'>
                         About Me
                     </h1>
                     <div className='mb-[2rem] flex justify-center md:justify-normal'>
@@ -16,7 +16,7 @@ const About = () => {
                     <div className='w-full mb-[2rem]'>
                         <hr className='w-3/12 border-sky-500 bg-sky-500 border-2'/>
                     </div>
-                    <div className='text-2xl text-slate-300 font-semibold mb-[1rem]'>
+                    <div className='text-2xl text-slate-300 font-medium mb-[1rem]'>
                         My Skills
                     </div>
                     <div className='flex text-xl text-slate-300 gap-4 sm:gap-2 flex-wrap mb-40 sm:mb-0'>

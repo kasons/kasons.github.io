@@ -15,9 +15,10 @@ const pixelchess = () => {
   return (
     <div className='bg-[#303136] py-16 md:pt-24 md:pb-36'>
         <div className='max-w-screen-xl mx-auto px-8 lg:px-24'>
-            <h1 className='text-4xl font-semibold text-white mt-[2rem] mb-[1rem]'>
+            <h1 className='text-4xl font-medium text-white mt-[2rem]'>
                 Pixelchess
             </h1>
+            <hr className='my-3 w-4/12 border-sky-500 bg-sky-500 border-2'/>
             <div className='flex flex-col md:flex-row justify-between'>
                 <div className='flex w-fit gap-4'>
                     <p className='text-sm text-slate-400'>
@@ -33,13 +34,11 @@ const pixelchess = () => {
                         Blender
                     </p>
                 </div>
-                <hr className='block md:hidden mt-2 w-5/12 border-sky-500 bg-sky-500 border-2'/>
                 <Link href="https://github.com/kasons/Pixelchess" target="_blank" className='text-link text-xl font-semibold text-white mt-5 md:mt-0 w-fit'>
                     View Code
                     <FaGithub className='inline-block ml-2 mb-[6px]'/>
                 </Link>
             </div>
-            <hr className='hidden md:block mt-2 w-5/12 border-sky-500 bg-sky-500 border-2'/>
             <div className="w-[90%] m-auto pt-11">
                 <Carousel slides={slides} key="pixelchess"/>
             </div>

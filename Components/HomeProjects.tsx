@@ -9,7 +9,7 @@ const HomeProjects = () => {
     return (
         <div className='bg-[#303136] py-16 md:py-24' id="projects-section">
             <div className='max-w-screen-2xl mx-auto px-8 lg:px-24'>
-                <h1 className='text-4xl font-semibold text-white mb-[2rem] w-fit'>
+                <h1 className='text-4xl font-medium text-white mb-[2rem] w-fit'>
                     Projects
                 </h1>
                 <div className='grid grid-cols-1 lg:grid-cols-3 gap-12'>
