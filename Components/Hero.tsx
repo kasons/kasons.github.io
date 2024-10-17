@@ -17,8 +17,11 @@ const Hero = () => {
                             Kason Shiroma
                         </h1>
                         <div className="text-3xl md:text-4xl font-medium md:text-white">Software Developer</div>
-                        <hr className='mt-6 w-6/12 border-sky-500 bg-sky-500 border-2 mx-auto lg:mx-0'/>
-                        <div className="font-medium my-6 text-xl">I&apos;m passionate about creating engaging and user-friendly web experiences.</div>
+                        <hr className='mt-6 w-3/12 border-sky-500 bg-sky-500 border-2 mx-auto lg:mx-0'/>
+                        <div className="font-medium my-6 text-xl">Welcome to my portfolio! I enjoy creating engaging and user-friendly web experiences.</div>
+                        <div className="font-medium my-6 text-xl">
+                            
+                        </div>
                         <Link href="/resume" className="bg-[linear-gradient(35deg,white_50%,#3c3d44_50%)] bg-animation bg-right-bottom transition-all duration-[0.3s] ease-[ease] hover:bg-left-top hover:text-black text-white py-3 px-6 text-xl font-medium inline-block">
                             Résumé
                         </Link>

@@ -18,7 +18,7 @@ const pixelchess = () => {
             <h1 className='text-4xl font-medium text-white mt-[2rem]'>
                 Octorecipes
             </h1>
-            <hr className='my-3 w-4/12 border-sky-500 bg-sky-500 border-2'/>
+            <hr className='my-3 w-2/12 md:w-1/12 border-sky-500 bg-sky-500 border-2'/>
             <div className='flex flex-col md:flex-row justify-between'>
                 <div className='flex w-fit gap-4'>
                     <p className='text-sm text-slate-400'>

@@ -14,7 +14,7 @@ const About = () => {
                         <p className='text-xl text-slate-300 w-[80%] basis-[fit-content] md:basis-auto'>Hi I&apos;m Kason. I&apos;m a software developer with a bachelor&apos;s degree in computer science and over two years of professional experience in web application development. I&apos;m passionate about creating intuitive and engaging user interfaces that enhance the overall user experience. I enjoy tackling challenges and continuously improving my skills to build efficient, user-friendly applications.</p>
                     </div>
                     <div className='w-full mb-[2rem]'>
-                        <hr className='w-3/12 border-sky-500 bg-sky-500 border-2'/>
+                        <hr className='w-2/12 border-sky-500 bg-sky-500 border-2'/>
                     </div>
                     <div className='text-2xl text-slate-300 font-medium mb-[1rem]'>
                         My Skills
